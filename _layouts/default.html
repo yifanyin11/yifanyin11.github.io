@@ -33,13 +33,17 @@
     </header>
     
 <!--     <img src="/dramatic-landscape-7.jpg" style="margin:30px 15px 5px 290px; border:0" width="250" height="200" />  -->
-    <img src="/dramatic-landscape-7.jpg" style="float:right; margin:30px 240px 30px 0px; border:0" width="250" height="200" />
+<!--     <img src="/dramatic-landscape-7.jpg" style="float:right; margin:30px 240px 30px 0px; border:0" width="250" height="200" /> -->
   
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
           {{ content }}
         </section>
+        
+        <aside style="float:right;width:100%; padding:20 20px;">
+        <img src="/dramatic-landscape-7.jpg" width="250" height="200" />
+        </aside>
 
         <aside id="sidebar">
           {% if site.show_downloads %}
