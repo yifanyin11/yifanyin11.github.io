@@ -2,12 +2,18 @@
 
 **Welcome to my site!** I am a Robotics Master student at [Johns Hopkins University](https://www.jhu.edu/), concentrating on _perception and cognitive systems_ in Robotic applications. I love to involve in  creative work or explore the depth on an interesting topic. Feel free to browse in the site and learn things about me, and I will keep the information up-to-date.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Academic Life
 
-### Markdown
-
+## Projects
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+## Courses
+
+
+## Publications
+
+
+## Work Experience
 ```markdown
 Syntax highlighted code block
 
