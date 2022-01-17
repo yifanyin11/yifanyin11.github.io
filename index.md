@@ -1,3 +1,5 @@
+![A Image](https://github.com/yifanyin11/yifanyin11.github.io/blob/main/dramatic-landscape-7.jpg)
+
 You can use the [editor on GitHub](https://github.com/yifanyin11/yifanyin11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 This is a beta version.
