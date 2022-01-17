@@ -1,6 +1,6 @@
-You can use the [editor on GitHub](https://github.com/yifanyin11/yifanyin11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- You can use the [editor on GitHub](https://github.com/yifanyin11/yifanyin11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-This is a beta version.
+Welcome to my site! I am a Robotics Master student at Johns Hopkins University, concentrating on perception and cognitive systems in Robotic applications. I love to involve in  creative work or explore the depth on an interesting topic. Feel free to browse in the site, and I will keep the information up-to-date.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
