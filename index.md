@@ -13,7 +13,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Publications
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yifanyin11/yifanyin11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Work Experience
+### Professional Experience
 ```markdown
 Syntax highlighted code block
 
