@@ -5,17 +5,16 @@
 ## Academic Life
 
 ### Work Experience
-Research Assistant 
+Research Assistant \
 _Feb. 2022 – Present_  
-Visual Perception of a Mosquito Micro-Dissection System 
 
+* Working on visual perception of a mosquito micro-dissection system 
 * Background in camera models, object detection, semantic segmentation, visual-servoing methods, perception systems
-* Develop semantic segmentation algorithms to detect and locate the robot tooltip and dissection parts 
-* Design and implement visual-servoing methods for accurate robot tool manipulation   
-* Participate in the development of a framework for integrated data management during deep learning training, 
-inference and evaluation   
-* Contribute effectively to the continuous improvement of the project by submitting improvement proposals  
-* Participate in the development of novel patient and process specific imaging and visualization methods 
+* Develop semantic segmentation algorithms using Mask R-CNN for the detection and localization the robot tooltip, results up to subpixel accuracy
+* Design and implement a 2D domain randomization pipeline for data augmentation and image label refinements; optimized tool can generate ~800 images/min for training with random backgrounds 
+* Participate in the development of a framework for integrated data managements during network training, inference and evaluation, to keep data streams organized      
+* Design and implement visual-servoing methods for accurate robot manipulation   
+
 
 ### Courses
 Computer Vision  
