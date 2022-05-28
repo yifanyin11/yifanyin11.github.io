@@ -47,7 +47,7 @@ _Nov. 2021 – Dec. 2021_
 _Oct. 2019 – Feb. 2020_
 
 * Background in Lidar SLAM, 3D reconstruction; Experience with MATLAB/Simulink
-* Performed localization and mapping using data from collection of Lidars to the mobile robot using particle filtering
+* Performed localization and mapping using data from collection of Lidars to the mobile robot by particle filtering
 * Experience on C/C++ programming/ debugging skills, developed skills on software design and algorithm developments
 * Experience on collaborative development using Git as a version control platform
 
