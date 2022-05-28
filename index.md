@@ -25,27 +25,28 @@ Robot Devices, Kinematics, Dynamics, and Control
 Algorithms for Sensor-Based Robotics \
 Vision as Bayesian Inference
 
+### Projects
+**Game Playing of ‘Flappy Bird’ with Double Deep Q Network**
+_Nov. 2021 – Dec. 2021_
+
+* Designed and implemented an intelligent agent for game playing using deep Q reinforcement learning network
+* Background in Markvo Decision Process, Dynamic Programming, Deep Q-Networks, game playing, image processing
+* Experience on constructing convolutional neural networks from scratch using PyTorch framework
+* Explored improvements in performance by researching on topics like Double Deep Q Learning, Experience Replay as well as stability and overestimation problems
+
+**Logistic Robot Design**
+_Sept. 2021 – Dec. 2021_
+
+* Background in Lidar SLAM, 3D reconstruction
+* Performed localization and mapping using data from collection of Lidars to the mobile robot using particle filtering
+* Experience on C/C++ programming/ debugging skills, developed skills on software design and algorithm developments
+
+
 ### Publications
 1. [Study on the Boost Converter with Parasitic Parameters of SiC MOSFET](https://iopscience.iop.org/article/10.1088/1742-6596/1846/1/012061) 
 
   Yin, Yifan. "Study on the Boost Converter with Parasitic Parameters of SiC MOSFET." Journal of Physics: Conference Series. Vol. 1846. No. 1. IOP Publishing, 2021.
 
-### Professional Experience
-```markdown
-Syntax highlighted code block
-
-**Header 1**
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-- Yifan
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 
