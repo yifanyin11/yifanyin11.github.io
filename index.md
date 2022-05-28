@@ -26,14 +26,14 @@ Algorithms for Sensor-Based Robotics \
 Vision as Bayesian Inference
 
 ### Projects
-**Trajectory Planning and Medical Data Visualization during Ultrasound-Based Facet Joint Injection**
+**Trajectory Planning and Medical Data Visualization during Ultrasound-Based Facet Joint Injection** \
 _Mar. 2022 – Present_
 
-** Background in camera model, Augmented Reality, Unity 3D simulation, C-sharp programming
-** Hands-on expereience in developing Mixed Reality applications using Mixed Reality Tookits (MRTK) and debugging on/ using HoloLens2
-** Constructed scenes and added features in Unity 3D for visualization on HoloLens
-** Developed algorithms for the visualization of preoperative CT data and the alignment of injection tools
-** Refined the data management system for saving of ultrasound scanning poses and visualization of historical visiting data 
+* Background in camera model, Augmented Reality, Unity 3D simulation, C-sharp programming
+* Hands-on expereience in developing Mixed Reality applications using Mixed Reality Tookits (MRTK) and debugging on/ using HoloLens2
+* Constructed scenes and added features in Unity 3D for visualization on HoloLens
+* Developed algorithms for the visualization of preoperative CT data and the alignment of injection tools
+* Refined the data management system for saving of ultrasound scanning poses and visualization of historical visiting data 
 
 **Game Playing of ‘Flappy Bird’ with Double Deep Q Network** \
 _Nov. 2021 – Dec. 2021_
