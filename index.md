@@ -9,7 +9,7 @@ _The_
 
 ### Courses
 Computer Vision  
-Augmented Reality 
+Augmented Reality \
 Reinforcement Learning  
 Statistical Learning   
 Robot Devices, Kinematics, Dynamics, and Control  
