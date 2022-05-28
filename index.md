@@ -13,11 +13,13 @@ Augmented Reality \
 Reinforcement Learning  
 Statistical Learning   
 Robot Devices, Kinematics, Dynamics, and Control  
-Algorithms for Sensor-Based Robotics
+Algorithms for Sensor-Based Robotics \
 Vision as Bayesian Inference
 
 ### Publications
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yifanyin11/yifanyin11.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [Study on the Boost Converter with Parasitic Parameters of SiC MOSFET](https://iopscience.iop.org/article/10.1088/1742-6596/1846/1/012061) 
+
+  Yin, Yifan. "Study on the Boost Converter with Parasitic Parameters of SiC MOSFET." Journal of Physics: Conference Series. Vol. 1846. No. 1. IOP Publishing, 2021.
 
 ### Professional Experience
 ```markdown
