@@ -9,7 +9,7 @@ Research Assistant \
 _Feb. 2022 – Present_  
 
 * Working on visual perception of a mosquito micro-dissection system 
-* Background in camera models, object detection, semantic segmentation, visual-servoing methods, perception systems
+* Background in Robotic Programming System (ROS), camera models, object detection, semantic segmentation, visual-servoing methods, perception systems
 * Developed semantic segmentation algorithms using Mask R-CNN for the detection and localization the robot tooltip; results up to subpixel accuracy
 * Designed and implemented a 2D domain randomization pipeline for data augmentation and image label refinements; the optimized tool can generate ~800 images with random or given backgrounds per min for training 
 * Participated in the development of a framework for integrated data managements during network training, inference and evaluation, to keep data streams organized     
@@ -40,7 +40,7 @@ _Sept. 2021 – Dec. 2021_
 * Background in Lidar SLAM, 3D reconstruction
 * Performed localization and mapping using data from collection of Lidars to the mobile robot using particle filtering
 * Experience on C/C++ programming/ debugging skills, developed skills on software design and algorithm developments
-
+* Experience on collaborative development using Git as a version control platform
 
 ### Publications
 1. [Study on the Boost Converter with Parasitic Parameters of SiC MOSFET](https://iopscience.iop.org/article/10.1088/1742-6596/1846/1/012061) 
