@@ -26,7 +26,16 @@ Algorithms for Sensor-Based Robotics \
 Vision as Bayesian Inference
 
 ### Projects
-**Game Playing of ‘Flappy Bird’ with Double Deep Q Network**
+**Trajectory Planning and Medical Data Visualization during Ultrasound-Based Facet Joint Injection**
+_Mar. 2022 – Present_
+
+** Background in camera model, Augmented Reality, Unity 3D simulation, C-sharp programming
+** Hands-on expereience in developing Mixed Reality applications using Mixed Reality Tookits (MRTK) and debugging on/ using HoloLens2
+** Constructed scenes and added features in Unity 3D for visualization on HoloLens
+** Developed algorithms for the visualization of preoperative CT data and the alignment of injection tools
+** Refined the data management system for saving of ultrasound scanning poses and visualization of historical visiting data 
+
+**Game Playing of ‘Flappy Bird’ with Double Deep Q Network** \
 _Nov. 2021 – Dec. 2021_
 
 * Designed and implemented an intelligent agent for game playing using deep Q reinforcement learning network
@@ -34,10 +43,10 @@ _Nov. 2021 – Dec. 2021_
 * Experience on constructing convolutional neural networks from scratch using PyTorch framework
 * Explored improvements in performance by researching on topics like Double Deep Q Learning, Experience Replay as well as stability and overestimation problems
 
-**Logistic Robot Design**
-_Sept. 2021 – Dec. 2021_
+**Logistic Robot Design** \
+_Oct. 2019 – Feb. 2020_
 
-* Background in Lidar SLAM, 3D reconstruction
+* Background in Lidar SLAM, 3D reconstruction; Experience with C++/MATLAB/Simulink
 * Performed localization and mapping using data from collection of Lidars to the mobile robot using particle filtering
 * Experience on C/C++ programming/ debugging skills, developed skills on software design and algorithm developments
 * Experience on collaborative development using Git as a version control platform
@@ -46,9 +55,4 @@ _Sept. 2021 – Dec. 2021_
 1. [Study on the Boost Converter with Parasitic Parameters of SiC MOSFET](https://iopscience.iop.org/article/10.1088/1742-6596/1846/1/012061) 
 
   Yin, Yifan. "Study on the Boost Converter with Parasitic Parameters of SiC MOSFET." Journal of Physics: Conference Series. Vol. 1846. No. 1. IOP Publishing, 2021.
-
-
-[Link](url) and ![Image](src)
-
-
 
