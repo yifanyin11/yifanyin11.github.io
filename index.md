@@ -4,8 +4,18 @@
 
 ## Academic Life
 
-### Projects
-_The_
+### Work Experience
+Research Assistant 
+_Feb. 2022 – Present_  
+Visual Perception of a Mosquito Micro-Dissection System 
+
+* Background in camera models, object detection, semantic segmentation, visual-servoing methods, perception systems
+* Develop semantic segmentation algorithms to detect and locate the robot tooltip and dissection parts 
+* Design and implement visual-servoing methods for accurate robot tool manipulation   
+* Participate in the development of a framework for integrated data management during deep learning training, 
+inference and evaluation   
+* Contribute effectively to the continuous improvement of the project by submitting improvement proposals  
+* Participate in the development of novel patient and process specific imaging and visualization methods 
 
 ### Courses
 Computer Vision  
