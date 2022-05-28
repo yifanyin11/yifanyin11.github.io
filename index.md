@@ -10,9 +10,9 @@ _Feb. 2022 – Present_
 
 * Working on visual perception of a mosquito micro-dissection system 
 * Background in camera models, object detection, semantic segmentation, visual-servoing methods, perception systems
-* Develop semantic segmentation algorithms using Mask R-CNN for the detection and localization the robot tooltip, results up to subpixel accuracy
-* Design and implement a 2D domain randomization pipeline for data augmentation and image label refinements; optimized tool can generate ~800 images/min for training with random backgrounds 
-* Participate in the development of a framework for integrated data managements during network training, inference and evaluation, to keep data streams organized      
+* Developed semantic segmentation algorithms using Mask R-CNN for the detection and localization the robot tooltip; results up to subpixel accuracy
+* Designed and implemented a 2D domain randomization pipeline for data augmentation and image label refinements; the optimized tool can generate ~800 images with random or given backgrounds per min for training 
+* Participated in the development of a framework for integrated data managements during network training, inference and evaluation, to keep data streams organized     
 * Design and implement visual-servoing methods for accurate robot manipulation   
 
 
