@@ -26,7 +26,7 @@ Algorithms for Sensor-Based Robotics \
 Vision as Bayesian Inference
 
 ### Projects
-**Trajectory Planning and Medical Data Visualization during Ultrasound-Based Facet Joint Injection** \
+**Trajectory Planning and Medical Data Visualization in Ultrasound-Based Facet Joint Injection** \
 _Mar. 2022 – Present_
 
 * Background in camera model, Augmented Reality, Unity 3D simulation, C-sharp programming
