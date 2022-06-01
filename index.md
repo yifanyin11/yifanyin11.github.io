@@ -39,7 +39,7 @@ _Mar. 2022 – Present_
 _Nov. 2021 – Dec. 2021_
 
 * Designed and implemented an intelligent agent for game playing using deep Q reinforcement learning network
-* Background in Markvo Decision Process, Dynamic Programming, Deep Q-Networks, game playing, image processing
+* Background in Markov Decision Process, Dynamic Programming, Deep Q-Networks, game playing, image processing
 * Experience on constructing convolutional neural networks from scratch using PyTorch framework
 * Explored improvements in performance by researching on topics like Double Deep Q Learning, Experience Replay as well as stability and overestimation problems
 
