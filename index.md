@@ -29,8 +29,8 @@ Vision as Bayesian Inference
 **Trajectory Planning and Medical Data Visualization in Ultrasound-Based Facet Joint Injection** \
 _Mar. 2022 – Present_
 
-* Background in camera model, Augmented Reality, Unity 3D simulation, C-sharp programming
-* Hands-on expereience in developing Mixed Reality applications using Mixed Reality Tookits (MRTK) and debugging on/ using HoloLens2
+* Background in camera models, Augmented Reality, Unity 3D simulation, C-sharp programming
+* Hands-on experience in developing Mixed Reality applications using Mixed Reality Tookits (MRTK) and debugging on/ using HoloLens2
 * Constructed scenes and added features in Unity 3D for visualization on HoloLens
 * Developed algorithms for the visualization of preoperative CT data and the alignment of injection tools
 * Refined the data management system for saving of ultrasound scanning poses and visualization of historical visiting data 
