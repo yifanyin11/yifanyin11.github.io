@@ -29,7 +29,7 @@ Vision as Bayesian Inference
 
 ### Projects
 
-**Ro-robotic Ultrasound Mammography**
+**Ro-robotic Ultrasound Mammography** \
 _May. 2022 – Present_
 
 * Built an ultrasound auto-scanning robot manipulator system for the diagnosis and varification of the breast cancer with ROS, kinematics, motion planning, camera calibration, image registration, visual servoing, robot control
