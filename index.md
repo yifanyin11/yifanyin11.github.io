@@ -26,16 +26,6 @@ _Feb. 2022 – July. 2023_
 * Developed a 3D domain randomization to generate simulated images from different camera views using Unity 3D simulation, and perform domain adaptation to transfer those images into real domain using Cycle GAN
 * Maintained data stream organization by developing a framework for integrated data management during network training, inference and evaluation
 
-
-### Courses
-Computer Vision  
-Augmented Reality \
-Reinforcement Learning  
-Statistical Learning   
-Robot Devices, Kinematics, Dynamics, and Control  
-Algorithms for Sensor-Based Robotics \
-Vision as Bayesian Inference
-
 ### Projects
 
 **Ro-robotic Ultrasound Mammography** \
