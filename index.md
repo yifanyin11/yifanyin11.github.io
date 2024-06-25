@@ -13,7 +13,8 @@ I love involving in creative work or exploring the depth on interesting topics. 
 **Computer Vision Internship** \
 PediaMetrix, Rockville, MD \
 _July. 2023 - Present_  
-
+*	Developed and implemented a machine learning based classifier for statistical prediction of types of skull abnormalities, obtained a sensitivity of 94.6% and specificity of 99.3%.
+*	Working on the improvement of the 3D reconstruction pipeline for cranial shape modeling with smart phone cameras by utilizing image processing, image registration, foreground estimation, instance segmentation techniques.
 
 **Research Assistant – Visual Perception and Robotics** \
 Laboratory for Computational Sensing and Robotics, Johns Hopkins University \
