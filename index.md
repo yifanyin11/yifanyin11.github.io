@@ -62,10 +62,10 @@ _Nov. 2021 – Dec. 2021_
 
 
 ### Publications
-1. [Enabling Mammography with Co-Robotic Ultrasound](https://arxiv.org/abs/2312.10309)
+*. [Enabling Mammography with Co-Robotic Ultrasound](https://arxiv.org/abs/2312.10309)
 
 Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R. H., Wu, Y., & Boctor, E. M. (2023). Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
-2. [Applications of Uncalibrated Image Based Visual Servoing in Micro-and Macroscale Robotics](https://ieeexplore.ieee.org/abstract/document/10260445)
+*. [Applications of Uncalibrated Image Based Visual Servoing in Micro-and Macroscale Robotics](https://ieeexplore.ieee.org/abstract/document/10260445)
 
 Y. Yin, Y. Wang, Y. Zhang, R. H. Taylor and B. P. Vagvolgyi, "Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-8, doi: 10.1109/CASE56687.2023.10260445.
