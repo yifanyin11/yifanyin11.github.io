@@ -10,9 +10,14 @@ I love involving in creative work or exploring the depth on interesting topics. 
 
 ### Work Experience
 
+**Computer Vision Internship** \
+PediaMetrix, Rockville, MD \
+_July. 2023 - Present_  
+
+
 **Research Assistant – Visual Perception and Robotics** \
 Laboratory for Computational Sensing and Robotics, Johns Hopkins University \
-_Feb. 2022 – Present_  
+_Feb. 2022 – July. 2023_  
 
 * Working on the visual perception of a micro-dissection system using ROS, camera calibrations, object detection, feature extraction, semantic segmentation, visual-servoing control and perception systems
 * Designed and implemented calibration-free visual servos for robot homing and surface safe approaching to save operation time by ~37% using key-point detection, feature extraction and finite-state machines
