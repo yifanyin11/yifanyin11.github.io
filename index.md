@@ -1,6 +1,10 @@
 <!-- You can use the [editor on GitHub](https://github.com/yifanyin11/yifanyin11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-**Welcome to my site!** I am a graduate assistant at [_Laboratory for Computational Sensing and Robotics_](https://lcsr.jhu.edu/), the Johns Hopkins University. My academic interests are on **_perception and cognitive systems_** in Robotics applications. I love involving in creative work or exploring the depth on interesting topics. Feel free to browse in the site and learn things about me.
+**Welcome to my site!** I am an incoming Ph.D. student in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://lcsr.jhu.edu/), advised by Professor [Tianmin Shu](https://www.tshu.io/). My research interests are in the areas of **_embodied AI_**, **_human robot interaction_** and **_robotic perception_**.
+
+Before my Ph.D., I completed my M.S.E. degree with a major in Robotics in the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) at Hopkins, under the supervision of Professor [Russell Taylor](https://www.cs.jhu.edu/~rht/) and Professor [Emad Boctor](https://malonecenter.jhu.edu/people/emad-boctor/). There, I conducted research on **_robotic perception and manipulation_** in medical applications.
+
+I love involving in creative work or exploring the depth on interesting topics. Also, I am always opened to meet incredible collaborators. If you're interested, feel free to send me an email!
 
 ## Academic Life
 
@@ -62,7 +66,10 @@ _Nov. 2021 – Dec. 2021_
 
 
 ### Publications
-1. [Study on the Boost Converter with Parasitic Parameters of SiC MOSFET](https://iopscience.iop.org/article/10.1088/1742-6596/1846/1/012061) 
+1. [Enabling Mammography with Co-Robotic Ultrasound](https://arxiv.org/abs/2312.10309)
 
-  Yin, Yifan. "Study on the Boost Converter with Parasitic Parameters of SiC MOSFET." Journal of Physics: Conference Series. Vol. 1846. No. 1. IOP Publishing, 2021.
+Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R. H., Wu, Y., & Boctor, E. M. (2023). Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
+2. [Applications of Uncalibrated Image Based Visual Servoing in Micro-and Macroscale Robotics](https://ieeexplore.ieee.org/abstract/document/10260445)
+
+Y. Yin, Y. Wang, Y. Zhang, R. H. Taylor and B. P. Vagvolgyi, "Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-8, doi: 10.1109/CASE56687.2023.10260445.
