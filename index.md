@@ -30,7 +30,7 @@ _Feb. 2022 – July. 2023_
 ### Projects
 
 **Ro-robotic Ultrasound Mammography** \
-_May. 2022 – Present_
+_May. 2022 – May. 2023_
 
 * Built an ultrasound auto-scanning robot manipulator system for the diagnosis and varification of the breast cancer with ROS, kinematics, motion planning, camera calibration, image registration, visual servoing, robot control
 * Performed accurate camera calibration, ultrasound calibration and pivot calibration, which achieved an overall system accuracy of <4mm in vision-guided robot manipulations
@@ -40,7 +40,7 @@ _May. 2022 – Present_
 * Implemented control algorithms for approaching scanning regions and performing ultrasound scanning ‘Wobble motion’ with ROS, kinematics and resolved-rate control algorithms
 
 **Trajectory Planning and Medical Data Visualization in Ultrasound-Based Facet Joint Injection** \
-_Mar. 2022 – Present_
+_Mar. 2022 – June. 2022_
 
 * Built a Head-Mounted Augmented Reality application for assisting lesion localization, surgical planning and trajectory visualization during facet joint injections using C# programming, Unity 3D, TCP communication; awarded the Honorary Mentioned Demo in final presentation
 * Designed and built AR scenes for augmenting a virtual monitor that displays slices of the preoperative lumbar spine images (CT/MRI) in real-time as scanning the patient’s back with a registered tool 
