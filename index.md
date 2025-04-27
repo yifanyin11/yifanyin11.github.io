@@ -1,6 +1,6 @@
 <!-- You can use the [editor on GitHub](https://github.com/yifanyin11/yifanyin11.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files. -->
 
-**Welcome to my site!** I am an incoming Ph.D. student in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://lcsr.jhu.edu/), advised by Professor [Tianmin Shu](https://www.tshu.io/). My research interests are in the areas of **_embodied AI_**, **_human robot interaction_** and **_robotic perception_**.
+**Welcome to my site!** I am a first-year Ph.D. student in [Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), advised by Professor [Tianmin Shu](https://www.tshu.io/). My research interests are in the areas of **_embodied AI_**, **_human robot interaction_** and **_robotic perception_**.
 
 Before my Ph.D., I completed my M.S.E. degree with a major in Robotics in the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) at Hopkins, under the supervision of Professor [Russell Taylor](https://www.cs.jhu.edu/~rht/) and Professor [Emad Boctor](https://malonecenter.jhu.edu/people/emad-boctor/). There, I conducted research on **_robotic perception and manipulation_** in medical applications.
 
