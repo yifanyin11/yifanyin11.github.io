@@ -55,13 +55,13 @@ _Mar. 2022 – June. 2022_
 
 *. [PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation](https://openreview.net/pdf?id=Kb4fDvJBlj)
 
-Yin, Y., Han, Z., Aarya, S., Xu, S., Wang, J., Peng, J., Wang, A., Yuille, A., & Shu, T. (2025). PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation. 7th Robot Learning Workshop: Towards Robots with Human-Level Abilities.
+<strong>Yin, Y.</strong>, Han, Z., Aarya, S., Xu, S., Wang, J., Peng, J., Wang, A., Yuille, A., & Shu, T. (2025). PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation. 7th Robot Learning Workshop: Towards Robots with Human-Level Abilities.
 
 
 *. [Enabling Mammography with Co-Robotic Ultrasound](https://arxiv.org/abs/2312.10309)
 
-Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R. H., Wu, Y., & Boctor, E. M. (2023). Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
+Chen, Y., <strong>Yin, Y.</strong>, Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R. H., Wu, Y., & Boctor, E. M. (2023). Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
 *. [Applications of Uncalibrated Image Based Visual Servoing in Micro-and Macroscale Robotics](https://ieeexplore.ieee.org/abstract/document/10260445)
 
-Y. Yin, Y. Wang, Y. Zhang, R. H. Taylor and B. P. Vagvolgyi, "Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-8, doi: 10.1109/CASE56687.2023.10260445.
+<strong>Yin, Y.</strong>, Y. Wang, Y. Zhang, R. H. Taylor and B. P. Vagvolgyi, "Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics," 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE), Auckland, New Zealand, 2023, pp. 1-8, doi: 10.1109/CASE56687.2023.10260445.
