@@ -4,7 +4,7 @@
 
 Before my Ph.D., I completed my M.S.E. degree with a major in Robotics in the [Laboratory for Computational Sensing and Robotics](https://lcsr.jhu.edu/) at Hopkins, under the supervision of Professor [Russell Taylor](https://www.cs.jhu.edu/~rht/) and Professor [Emad Boctor](https://malonecenter.jhu.edu/people/emad-boctor/). There, I conducted research on **_robotic perception and manipulation_** in medical applications.
 
-I love involving in creative work or exploring the depth on interesting topics. Also, I am always opened to meet incredible collaborators. If you're interested, feel free to send me an email!
+I love involving in creative work or exploring the depth on interesting topics. Also, I'm always open to meeting incredible collaborators. If you're interested, feel free to send me an email!
 
 ## Academic Life
 
