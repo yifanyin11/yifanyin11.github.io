@@ -12,7 +12,7 @@ I love involving in creative work or exploring the depth on interesting topics. 
 
 **Computer Vision Internship** \
 PediaMetrix, Rockville, MD \
-_July. 2023 - Present_  
+_July. 2023 - _July. 2024_  
 *	Developed and implemented a machine learning based classifier for statistical prediction of types of skull abnormalities, obtained a sensitivity of 94.6% and specificity of 99.3%.
 *	Working on the improvement of the 3D reconstruction pipeline for cranial shape modeling with smart phone cameras by utilizing image processing, image registration, foreground estimation, instance segmentation techniques.
 
@@ -50,18 +50,14 @@ _Mar. 2022 – June. 2022_
 * Developed algorithms for the planning and visualization of injection trajectories, giving an error of smaller than 2mm 
 * Improved depth perception during alignment of surigical tools with planned trajectories by augmenting a window on the patient’s skin that can look virtually inside the body at injection target positions
 
-**Game Playing of ‘Flappy Bird’ with Double Deep Q Network** \
-_Nov. 2021 – Dec. 2021_
-
-* Designed and implemented an intelligent agent that can play the game ‘Flappy Bird’ forever using deep Q reinforcement learning, image processing, Markov Decision Process, convolutional neural networks (CNNs)
-* Constructed convolutional neural network models from scratch for game action classifications at each frame with an AUC of 0.85+ using the PyTorch framework
-* Added time-varying reward settings to the Markov Decision Process to avoid convergence of the neural networks to extreme solutions and brought a ~2000 epochs earlier convergence 
-* Added an image preprocessing pipeline to ~26% decrease computational cost of training neural networks
-* Enhanced performance by 10% to 12% using Double Deep-Q networks and Experience Replay buffers
-
-
 
 ### Publications
+
+*. [PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation](https://openreview.net/pdf?id=Kb4fDvJBlj)
+
+Yin, Y., Han, Z., Aarya, S., Xu, S., Wang, J., Peng, J., Wang, A., Yuille, A., & Shu, T. (2025). PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation. 7th Robot Learning Workshop: Towards Robots with Human-Level Abilities.
+
+
 *. [Enabling Mammography with Co-Robotic Ultrasound](https://arxiv.org/abs/2312.10309)
 
 Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R. H., Wu, Y., & Boctor, E. M. (2023). Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
