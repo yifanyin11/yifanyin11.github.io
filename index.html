@@ -1,0 +1,163 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Yifan Yin</title>
+
+    <meta name="author" content="Yifan Yin">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Yifan Yin
+                </p>
+                <p>
+                  I am a second-year Ph.D. student in
+                  <a href="https://www.cs.jhu.edu/">Computer Science</a> at
+                  <a href="https://www.jhu.edu/">Johns Hopkins University</a>, advised by Professor
+                  <a href="https://www.tshu.io/">Tianmin Shu</a>.
+                </p>
+                <p>
+                  Before my Ph.D., I completed my M.S.E. degree with a major in Robotics in the
+                  <a href="https://lcsr.jhu.edu/">Laboratory for Computational Sensing and Robotics</a> at Hopkins,
+                  under the supervision of Professor <a href="https://www.cs.jhu.edu/~rht/">Russell Taylor</a> and
+                  Professor <a href="https://malonecenter.jhu.edu/people/emad-boctor/">Emad Boctor</a>.
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:yifanyin211@gmail.com">Email</a> &nbsp;/&nbsp;
+                  <a href="data/YifanYin-CV.pdf">CV</a> &nbsp;/&nbsp;
+                  <a href="https://twitter.com/yifanyin211">Twitter</a> &nbsp;/&nbsp;
+                  <a href="https://github.com/yifanyin11/">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:30%;max-width:30%">
+                <a href="images/YifanYin.jpg"><img style="width:100%;max-width:100%;object-fit: cover;" alt="profile photo" src="images/YifanYin.jpg" class="hoverZoomLink"></a>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:16px;width:100%;vertical-align:middle">
+                <h2>Research</h2>
+                <p>
+                My research is at the intersection of <strong><em>embodied AI</em></strong>, <strong><em>robotics</em></strong>, and <strong><em>human-robot interaction</em></strong>. 
+                My recent work focuses on (1) comprehensive <strong><em>3D scene understanding</em></strong>; 
+                (2) <strong><em>world models</em></strong> for anticipation and evaluation of embodied state changes; 
+                (3) <strong><em>robot learning</em></strong> with multimodal reasoning and action policy learning; 
+                (4) integrated task and motion planning for <strong><em>embodied assistance</em></strong> and <strong><em>human-robot collaboration</em></strong>.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px 10px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+    <tr onmouseout="partinstruct_stop()" onmouseover="partinstruct_start()"  bgcolor="#ffffd0">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='partinstruct_image'><video  width=100% height=100% muted autoplay loop>
+          <source src="images/partinstruct.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+
+          </video></div>
+          <img src='images/partinstruct.png' width="160">
+        </div>
+        <script type="text/javascript">
+          function partinstruct_start() {
+            document.getElementById('partinstruct_image').style.opacity = "1";
+          }
+
+          function partinstruct_stop() {
+            document.getElementById('partinstruct_image').style.opacity = "0";
+          }
+          partinstruct_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://partinstruct.github.io/">
+          <span class="papertitle">Part-level Instruction Following for Fine-grained Robot Manipulation</span>
+        </a>
+        <br>
+        <strong>Yifan Yin*</strong>, Zhengtao Han*, Shivam Aarya, Jianxin Wang, Shuhang Xu, Jiawei Peng, Angtian Wang, Alan Yuille, Tianmin Shu
+        <br>
+        <em>Robotics: Science and Systems (RSS)</em>, 2025
+        <br>
+        <a href="https://partinstruct.github.io/">project page</a>
+        |
+        <a href="https://arxiv.org/abs/2505.21652">arXiv</a>
+        |
+        <a href="https://github.com/SCAI-JHU/PartInstruct">code</a>
+        <p></p>
+        <p>
+		    We introduce PartInstruct, the first large-scale benchmark for training and evaluating fine-grained robot manipulation policies using part-level instructions.
+        </p>
+      </td>
+    </tr>
+
+    <tr onmouseout="ibvs_stop()" onmouseover="ibvs_start()">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='ibvs_image'>
+					  <img src='images/ibvs_after.png' width=100%>
+					</div>
+          <img src='images/ibvs_before.png' width=100%>
+        </div>
+        <script type="text/javascript">
+          function ibvs_start() {
+            document.getElementById('ibvs_image').style.opacity = "1";
+          }
+
+          function ibvs_stop() {
+            document.getElementById('ibvs_image').style.opacity = "0";
+          }
+          ibvs_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://ieeexplore.ieee.org/abstract/document/10260445">
+			<span class="papertitle">Applications of Uncalibrated Image Based Visual Servoing in Micro- and Macroscale Robotics
+</span>
+        </a>
+        <br>
+        <strong>Yifan Yin*</strong>, Yutai Wang, Yunpu Zhang, Russell H. Taylor, Balazs P. Vagvolgyi
+				<br>
+        <em>International Conference on Automation Science and Engineering (CASE)</em>, 2023
+        <br>
+        <a href="https://ieeexplore.ieee.org/abstract/document/10260445">paper</a>
+        /
+        <a href="https://arxiv.org/pdf/2304.08464">arXiv</a>
+        <p></p>
+        <p>
+				We present a robust markerless image based visual servoing method that enables precision robot control
+          without hand-eye and camera calibrations in 1, 3, and 5 degrees of freedom
+        </p>
+      </td>
+    </tr>
+
+    </tbody></table>
+            
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+              <td style="padding:0px">
+                <br>
+                <p style="text-align:right;font-size:small;">
+                  Adapted from <a href="https://github.com/jonbarron/jonbarron_website">https://jonbarron.info/.</a>
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
