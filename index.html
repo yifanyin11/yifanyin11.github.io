@@ -66,6 +66,98 @@
         <h2>Publications</h2>
       </td>
     </tr>
+    <tr bgcolor="#ffffd0">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <video width=100% muted autoplay loop playsinline>
+          <source src="images/3dbelief.mp4" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://3d-belief.github.io/">
+          <span class="papertitle">3D-Belief: Embodied Belief Inference via Generative 3D World Modeling</span>
+        </a>
+        <br>
+        <strong>Yifan Yin</strong>, Zehao Wen, Suyu Ye, Jieneng Chen, Zehan Zheng, Nanru Dai, Haojun Shi, Aydan Huang, Zheyuan Zhang, Alan Yuille, Jianwen Xie, Ayush Tewari, Tianmin Shu
+        <br>
+        <br>
+        <em>arXiv preprint</em>, 2026
+        <br>
+        <a href="https://3d-belief.github.io/">project page</a>
+        |
+        <a href="https://arxiv.org/abs/2605.11367">arXiv</a>
+        |
+        <a href="https://github.com/3D-Belief/3d-belief.git">code</a>
+        |
+        <a href="https://3d-belief.github.io/demo/">demo</a>
+        <p></p>
+        <p>
+            We propose world modeling as embodied belief inference in 3D space and introduce 3D-Belief, a generative 3D world model that maintains, samples, and updates explicit 3D beliefs from partial observations.
+        </p>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <img src='images/CaPE.png' width=100%>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://scai.cs.jhu.edu/projects/CaPE/">
+          <span class="papertitle">CaPE: Safe and Interpretable Multimodal Path Planning for Multi-Agent Cooperation</span>
+        </a>
+        <br>
+        Haojun Shi*, Suyu Ye*, Katherine M. Guerrerio, Jianzhi Shen, <strong>Yifan Yin</strong>, Daniel Khashabi, Chien-Ming Huang, Tianmin Shu
+        <br>
+        <br>
+        <em>arXiv preprint</em>, 2026
+        <br>
+        <a href="https://scai.cs.jhu.edu/projects/CaPE/">project page</a>
+        |
+        <a href="https://arxiv.org/abs/2602.19304">arXiv</a>
+        <p></p>
+        <p>
+            We introduce CaPE (Code as Path Editor), which uses vision-language models to synthesize structured path-editing programs from natural language instructions, with a model-based verifier validating each edit for safe and interpretable multi-agent coordination.
+        </p>
+      </td>
+    </tr>
+
+    <tr onmouseout="fdo_stop()" onmouseover="fdo_start()">
+      <td style="padding:16px;width:20%;vertical-align:middle">
+        <div class="one">
+          <div class="two" id='fdo_image'>
+            <img src='images/fdo_after.png' width=100%>
+          </div>
+          <img src='images/fdo_before.png' width=100%>
+        </div>
+        <script type="text/javascript">
+          function fdo_start() {
+            document.getElementById('fdo_image').style.opacity = "1";
+          }
+
+          function fdo_stop() {
+            document.getElementById('fdo_image').style.opacity = "0";
+          }
+          fdo_stop()
+        </script>
+      </td>
+      <td style="padding:8px;width:80%;vertical-align:middle">
+        <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Fast_Generative_DeOcclusion_for_Visual_Geometry_and_Robotics_CVPRF_2026_paper.pdf">
+          <span class="papertitle">Fast Generative DeOcclusion for Visual Geometry and Robotics</span>
+        </a>
+        <br>
+        Jieneng Chen*, Tiezheng Zhang*, Xiwei Xuan, Ju He, <strong>Yifan Yin</strong>, Haojun Shi, Suyu Ye, Xinyi Li, Ruisheng Yuan, Tianmin Shu, Alan Yuille
+        <br>
+        <br>
+        <em> Conference on Computer Vision and Pattern Recognition (CVPR) Findings</em>, 2026
+        <br>
+        <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_Fast_Generative_DeOcclusion_for_Visual_Geometry_and_Robotics_CVPRF_2026_paper.pdf">paper</a>
+        <p></p>
+        <p>
+            We present a fast geometry-aware generative framework for 3D de-occlusion, recovering hidden geometry and appearance to improve visual reconstruction, scene understanding, and robotic perception.
+        </p>
+      </td>
+    </tr>
+
     <tr onmouseout="siftom_stop()" onmouseover="siftom_start()">
       <td style="padding:16px;width:20%;vertical-align:middle">
         <div class="one">
@@ -103,26 +195,12 @@
       </td>
     </tr>
 
-    <tr onmouseout="partinstruct_stop()" onmouseover="partinstruct_start()"  bgcolor="#ffffd0">
+    <tr bgcolor="#ffffd0">
       <td style="padding:16px;width:20%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='partinstruct_image'><video  width=100% height=100% muted autoplay loop>
+        <video width=100% muted autoplay loop playsinline>
           <source src="images/partinstruct.mp4" type="video/mp4">
           Your browser does not support the video tag.
-
-          </video></div>
-          <img src='images/partinstruct.png' width="160">
-        </div>
-        <script type="text/javascript">
-          function partinstruct_start() {
-            document.getElementById('partinstruct_image').style.opacity = "1";
-          }
-
-          function partinstruct_stop() {
-            document.getElementById('partinstruct_image').style.opacity = "0";
-          }
-          partinstruct_stop()
-        </script>
+        </video>
       </td>
       <td style="padding:8px;width:80%;vertical-align:middle">
         <a href="https://partinstruct.github.io/">
